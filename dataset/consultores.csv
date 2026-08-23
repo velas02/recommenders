@@ -1,0 +1,501 @@
+consultor_id,nombre,rol,seniority,tecnologia_principal,sector_actual
+1,Carlos García,Consultor Funcional,Junior,Azure,Seguros
+2,Hugo López,Consultor BI,Senior,Python,Banca
+3,Lucía Díaz,Consultor BI,Manager,Python,Utilities
+4,Hugo Gutiérrez,Ingeniero de Datos,Senior,SQL,Banca
+5,Adrián Álvarez,Consultor Funcional,Junior,Azure,Retail
+6,Marta Alonso,Data Scientist,Senior,Power BI,Utilities
+7,Luis Navarro,Consultor BI,Junior,Java,Banca
+8,Diego Romero,Consultor BI,Junior,Spark,Banca
+9,Diego López,Ingeniero de Datos,Junior,Java,Retail
+10,Miguel Gómez,Consultor Funcional,Senior,Azure,Telco
+11,Marta Gómez,Consultor BI,Manager,Azure,Seguros
+12,Paula Ruiz,Consultor BI,Junior,Power BI,Banca
+13,Luis Álvarez,Arquitecto Cloud,Senior,Spark,Seguros
+14,Laura Fernández,Arquitecto Cloud,Senior,Kubernetes,Seguros
+15,Elena Díaz,Consultor BI,Manager,SQL,Telco
+16,Adrián Alonso,Consultor Funcional,Junior,AWS,Utilities
+17,Marta Martínez,Data Scientist,Junior,AWS,Telco
+18,Raúl López,Arquitecto Cloud,Senior,Kubernetes,Utilities
+19,Hugo García,Data Scientist,Manager,SQL,Telco
+20,Carlos Moreno,Arquitecto Cloud,Junior,Kubernetes,Banca
+21,Nuria Gómez,Consultor BI,Junior,SQL,Telco
+22,Raúl Fernández,Ingeniero de Datos,Senior,AWS,Utilities
+23,Ana Álvarez,Arquitecto Cloud,Junior,Spark,Retail
+24,Pablo Martínez,Ingeniero de Datos,Manager,Spark,Banca
+25,Marta Pérez,Ingeniero de Datos,Manager,Kubernetes,Utilities
+26,Sara Gutiérrez,Ingeniero de Datos,Manager,Azure,Telco
+27,Paula Romero,Arquitecto Cloud,Manager,Kubernetes,Banca
+28,Pablo López,Consultor Funcional,Junior,Azure,Utilities
+29,Ana López,Data Scientist,Junior,Spark,Banca
+30,Marta Díaz,Consultor Funcional,Manager,Kubernetes,Seguros
+31,Elena Torres,Ingeniero de Datos,Senior,Java,Seguros
+32,Carlos Gutiérrez,Consultor Funcional,Senior,Java,Industria
+33,Carlos Martínez,Arquitecto Cloud,Manager,Power BI,Banca
+34,Lucía Fernández,Consultor BI,Senior,AWS,Industria
+35,Sara Navarro,Ingeniero de Datos,Junior,Kubernetes,Utilities
+36,Luis García,Data Scientist,Junior,AWS,Industria
+37,Álvaro Fernández,Arquitecto Cloud,Junior,AWS,Industria
+38,Paula Ruiz,Arquitecto Cloud,Senior,Java,Telco
+39,Álvaro Pérez,Ingeniero de Datos,Senior,Azure,Banca
+40,Hugo Martínez,Consultor Funcional,Junior,Python,Utilities
+41,Nuria Gómez,Data Scientist,Manager,Spark,Seguros
+42,Raúl López,Ingeniero de Datos,Senior,Spark,Utilities
+43,Marina Martínez,Consultor BI,Junior,Java,Telco
+44,Marina Álvarez,Consultor Funcional,Junior,Power BI,Seguros
+45,Paula Pérez,Consultor Funcional,Senior,Power BI,Banca
+46,Sofía Sánchez,Data Scientist,Manager,Azure,Utilities
+47,Elena Romero,Data Scientist,Junior,Power BI,Retail
+48,Sofía Moreno,Consultor BI,Manager,Python,Telco
+49,Diego Sánchez,Ingeniero de Datos,Senior,Spark,Banca
+50,Elena Ruiz,Consultor Funcional,Manager,Azure,Telco
+51,Lucía Ruiz,Consultor BI,Senior,SQL,Banca
+52,Adrián Ruiz,Data Scientist,Junior,Power BI,Seguros
+53,Javier Navarro,Consultor BI,Manager,Java,Utilities
+54,Carlos López,Ingeniero de Datos,Manager,Python,Retail
+55,Hugo Pérez,Arquitecto Cloud,Junior,Python,Retail
+56,Luis Romero,Ingeniero de Datos,Manager,Azure,Telco
+57,Miguel Gutiérrez,Consultor BI,Manager,AWS,Seguros
+58,Javier Gutiérrez,Data Scientist,Junior,Power BI,Industria
+59,Sara Gómez,Data Scientist,Senior,Python,Industria
+60,Lucía Navarro,Consultor Funcional,Senior,Azure,Seguros
+61,Lucía Alonso,Consultor Funcional,Senior,Spark,Retail
+62,Nuria Alonso,Consultor BI,Senior,Python,Banca
+63,Javier Ruiz,Data Scientist,Junior,Java,Retail
+64,Adrián Sánchez,Arquitecto Cloud,Manager,Azure,Retail
+65,Adrián García,Consultor BI,Manager,Azure,Retail
+66,Marta Álvarez,Consultor BI,Senior,Spark,Telco
+67,Nuria Moreno,Arquitecto Cloud,Senior,Java,Telco
+68,Hugo Pérez,Ingeniero de Datos,Senior,Java,Telco
+69,Raúl Moreno,Arquitecto Cloud,Manager,Python,Retail
+70,Lucía Gutiérrez,Consultor BI,Manager,Power BI,Industria
+71,Sofía Fernández,Consultor BI,Senior,AWS,Telco
+72,Diego Álvarez,Data Scientist,Junior,SQL,Seguros
+73,Elena García,Data Scientist,Junior,Kubernetes,Utilities
+74,Sofía Gutiérrez,Consultor BI,Junior,Java,Industria
+75,Pablo Pérez,Data Scientist,Junior,Java,Seguros
+76,Nuria Navarro,Data Scientist,Manager,Azure,Banca
+77,Elena Navarro,Consultor BI,Manager,Power BI,Industria
+78,Nuria Gutiérrez,Consultor BI,Senior,AWS,Telco
+79,Sofía Ruiz,Ingeniero de Datos,Manager,SQL,Utilities
+80,Pablo Ruiz,Arquitecto Cloud,Junior,SQL,Seguros
+81,Laura Álvarez,Consultor BI,Junior,AWS,Seguros
+82,Paula Pérez,Ingeniero de Datos,Junior,Java,Industria
+83,Hugo Navarro,Arquitecto Cloud,Junior,Azure,Industria
+84,Marina García,Consultor BI,Senior,Kubernetes,Banca
+85,Diego Alonso,Arquitecto Cloud,Manager,Azure,Industria
+86,Sara Gutiérrez,Arquitecto Cloud,Junior,Java,Retail
+87,Javier Navarro,Ingeniero de Datos,Manager,Python,Industria
+88,Marina García,Data Scientist,Manager,Java,Seguros
+89,Javier Martínez,Consultor Funcional,Senior,Power BI,Seguros
+90,Laura Álvarez,Arquitecto Cloud,Senior,Java,Retail
+91,Álvaro García,Consultor BI,Junior,Power BI,Seguros
+92,Luis García,Ingeniero de Datos,Junior,Python,Utilities
+93,Pablo Pérez,Arquitecto Cloud,Manager,Spark,Utilities
+94,Sofía Ruiz,Consultor Funcional,Junior,Spark,Seguros
+95,Carlos García,Consultor Funcional,Manager,Java,Industria
+96,Marta Díaz,Data Scientist,Manager,SQL,Telco
+97,Carlos Martínez,Consultor Funcional,Manager,Java,Telco
+98,Marta Álvarez,Data Scientist,Senior,Kubernetes,Banca
+99,Miguel Navarro,Ingeniero de Datos,Senior,AWS,Telco
+100,Sara Torres,Arquitecto Cloud,Senior,SQL,Retail
+101,Marta Ruiz,Arquitecto Cloud,Junior,Kubernetes,Utilities
+102,Paula Álvarez,Data Scientist,Senior,Power BI,Seguros
+103,Lucía Romero,Consultor Funcional,Senior,SQL,Utilities
+104,Hugo García,Consultor BI,Junior,Spark,Seguros
+105,Álvaro Díaz,Arquitecto Cloud,Manager,Kubernetes,Industria
+106,Marta Moreno,Ingeniero de Datos,Senior,Azure,Retail
+107,Miguel Torres,Consultor BI,Manager,Power BI,Industria
+108,Laura Romero,Arquitecto Cloud,Senior,SQL,Retail
+109,Carlos Fernández,Consultor Funcional,Junior,AWS,Seguros
+110,Álvaro Ruiz,Consultor BI,Manager,SQL,Banca
+111,Diego Díaz,Consultor Funcional,Junior,SQL,Banca
+112,Elena Ruiz,Data Scientist,Junior,SQL,Telco
+113,Álvaro Sánchez,Data Scientist,Manager,SQL,Industria
+114,Sofía Álvarez,Ingeniero de Datos,Junior,SQL,Industria
+115,Marta Alonso,Arquitecto Cloud,Junior,Python,Seguros
+116,Marina Moreno,Data Scientist,Junior,Spark,Utilities
+117,Raúl Díaz,Consultor BI,Senior,Kubernetes,Industria
+118,Marina Gutiérrez,Consultor Funcional,Manager,Python,Utilities
+119,Lucía Fernández,Consultor Funcional,Manager,Spark,Seguros
+120,Javier López,Ingeniero de Datos,Junior,Java,Industria
+121,Álvaro Moreno,Data Scientist,Junior,SQL,Telco
+122,Sofía López,Ingeniero de Datos,Senior,Azure,Industria
+123,Hugo Díaz,Ingeniero de Datos,Senior,AWS,Banca
+124,Javier Moreno,Consultor BI,Manager,SQL,Industria
+125,Sofía Moreno,Arquitecto Cloud,Senior,Kubernetes,Industria
+126,Raúl Martínez,Arquitecto Cloud,Manager,Power BI,Utilities
+127,Ana López,Ingeniero de Datos,Manager,Python,Telco
+128,Marina Martínez,Ingeniero de Datos,Senior,Kubernetes,Retail
+129,Marina Gutiérrez,Arquitecto Cloud,Junior,Kubernetes,Retail
+130,Laura Álvarez,Data Scientist,Junior,Power BI,Industria
+131,Diego Alonso,Consultor BI,Junior,Kubernetes,Banca
+132,Sara Álvarez,Data Scientist,Senior,Python,Telco
+133,Sofía Gutiérrez,Data Scientist,Junior,Power BI,Utilities
+134,Sofía Martínez,Ingeniero de Datos,Senior,AWS,Retail
+135,Álvaro Sánchez,Data Scientist,Manager,Azure,Telco
+136,Diego García,Consultor BI,Senior,Spark,Seguros
+137,Sofía Sánchez,Ingeniero de Datos,Senior,SQL,Utilities
+138,Adrián Torres,Arquitecto Cloud,Junior,Kubernetes,Utilities
+139,Paula Fernández,Consultor BI,Manager,AWS,Banca
+140,Adrián Álvarez,Consultor BI,Senior,Python,Retail
+141,Marina Torres,Ingeniero de Datos,Senior,Kubernetes,Retail
+142,Hugo Alonso,Arquitecto Cloud,Senior,Azure,Telco
+143,Marina Alonso,Ingeniero de Datos,Senior,Python,Retail
+144,Paula Alonso,Ingeniero de Datos,Senior,Python,Seguros
+145,Marina Álvarez,Data Scientist,Senior,Spark,Utilities
+146,Ana Pérez,Arquitecto Cloud,Manager,AWS,Banca
+147,Sara Álvarez,Consultor BI,Manager,Java,Telco
+148,Laura Alonso,Consultor Funcional,Manager,Kubernetes,Utilities
+149,Raúl López,Ingeniero de Datos,Manager,SQL,Seguros
+150,Adrián Sánchez,Data Scientist,Senior,AWS,Telco
+151,Ana Martínez,Consultor Funcional,Junior,SQL,Retail
+152,Adrián Pérez,Ingeniero de Datos,Manager,Java,Utilities
+153,Javier Gómez,Data Scientist,Manager,Java,Utilities
+154,Álvaro Pérez,Ingeniero de Datos,Senior,SQL,Industria
+155,Ana Navarro,Consultor Funcional,Manager,AWS,Banca
+156,Miguel Moreno,Arquitecto Cloud,Manager,SQL,Industria
+157,Lucía Alonso,Arquitecto Cloud,Junior,Azure,Industria
+158,Miguel Moreno,Consultor Funcional,Junior,Java,Retail
+159,Marina Martínez,Consultor BI,Manager,Kubernetes,Retail
+160,Raúl Romero,Ingeniero de Datos,Manager,Azure,Utilities
+161,Elena Sánchez,Data Scientist,Senior,Kubernetes,Banca
+162,Miguel Pérez,Data Scientist,Senior,Power BI,Telco
+163,Javier Fernández,Ingeniero de Datos,Manager,Power BI,Utilities
+164,Sara Gómez,Consultor Funcional,Senior,SQL,Telco
+165,Carlos Navarro,Data Scientist,Junior,Azure,Telco
+166,Hugo Romero,Data Scientist,Senior,Python,Retail
+167,Carlos Navarro,Consultor Funcional,Manager,SQL,Utilities
+168,Miguel Sánchez,Ingeniero de Datos,Senior,Python,Utilities
+169,Laura Díaz,Data Scientist,Manager,Kubernetes,Telco
+170,Adrián Sánchez,Ingeniero de Datos,Junior,Python,Retail
+171,Carlos Sánchez,Ingeniero de Datos,Manager,AWS,Industria
+172,Miguel Gutiérrez,Consultor BI,Manager,AWS,Industria
+173,Álvaro Gutiérrez,Consultor Funcional,Junior,Power BI,Seguros
+174,Sofía Díaz,Consultor Funcional,Junior,Power BI,Utilities
+175,Luis Alonso,Consultor Funcional,Junior,Spark,Industria
+176,Lucía García,Data Scientist,Senior,Azure,Seguros
+177,Lucía López,Consultor BI,Junior,Azure,Seguros
+178,Elena García,Consultor Funcional,Junior,AWS,Utilities
+179,Javier Sánchez,Data Scientist,Junior,Python,Retail
+180,Marina Álvarez,Data Scientist,Junior,SQL,Banca
+181,Adrián Sánchez,Data Scientist,Senior,Kubernetes,Retail
+182,Marina Sánchez,Arquitecto Cloud,Manager,Azure,Utilities
+183,Nuria Moreno,Arquitecto Cloud,Manager,Python,Banca
+184,Paula Gutiérrez,Data Scientist,Senior,Kubernetes,Banca
+185,Laura Pérez,Data Scientist,Junior,SQL,Utilities
+186,Hugo Álvarez,Arquitecto Cloud,Manager,SQL,Industria
+187,Raúl Gutiérrez,Data Scientist,Manager,Spark,Telco
+188,Lucía Gutiérrez,Arquitecto Cloud,Junior,Java,Retail
+189,Paula Gutiérrez,Data Scientist,Senior,Java,Retail
+190,Miguel Pérez,Arquitecto Cloud,Junior,Spark,Banca
+191,Adrián Sánchez,Consultor Funcional,Junior,Python,Utilities
+192,Hugo Álvarez,Data Scientist,Senior,Power BI,Telco
+193,Luis Moreno,Consultor BI,Senior,Power BI,Banca
+194,Nuria Fernández,Ingeniero de Datos,Manager,Kubernetes,Seguros
+195,Miguel Romero,Data Scientist,Senior,Azure,Industria
+196,Raúl García,Consultor BI,Manager,SQL,Banca
+197,Sara Moreno,Consultor Funcional,Senior,Python,Seguros
+198,Marina Alonso,Data Scientist,Junior,Python,Banca
+199,Lucía Alonso,Arquitecto Cloud,Senior,Power BI,Seguros
+200,Diego Álvarez,Consultor BI,Manager,Spark,Banca
+201,Javier Martínez,Data Scientist,Senior,Kubernetes,Telco
+202,Álvaro Navarro,Arquitecto Cloud,Senior,Azure,Utilities
+203,Miguel Gutiérrez,Data Scientist,Senior,Kubernetes,Utilities
+204,Luis Díaz,Arquitecto Cloud,Manager,Python,Banca
+205,Diego Fernández,Ingeniero de Datos,Senior,SQL,Retail
+206,Ana Torres,Arquitecto Cloud,Junior,AWS,Industria
+207,Pablo Romero,Data Scientist,Senior,Python,Industria
+208,Sofía López,Consultor Funcional,Manager,Java,Utilities
+209,Adrián Moreno,Data Scientist,Senior,Python,Retail
+210,Raúl Navarro,Consultor Funcional,Junior,Java,Banca
+211,Adrián Alonso,Consultor BI,Junior,Java,Retail
+212,Pablo Álvarez,Ingeniero de Datos,Junior,Spark,Utilities
+213,Lucía Romero,Consultor Funcional,Manager,AWS,Seguros
+214,Elena Ruiz,Ingeniero de Datos,Junior,AWS,Telco
+215,Javier Torres,Arquitecto Cloud,Manager,Kubernetes,Telco
+216,Raúl Álvarez,Consultor Funcional,Junior,Kubernetes,Banca
+217,Sofía Moreno,Consultor Funcional,Manager,Python,Retail
+218,Marta Moreno,Arquitecto Cloud,Senior,Python,Banca
+219,Diego López,Data Scientist,Manager,Java,Industria
+220,Hugo Martínez,Arquitecto Cloud,Manager,Azure,Retail
+221,Álvaro Pérez,Data Scientist,Senior,Spark,Retail
+222,Nuria Gómez,Data Scientist,Junior,Kubernetes,Industria
+223,Nuria Gómez,Consultor Funcional,Senior,SQL,Industria
+224,Laura Martínez,Consultor Funcional,Junior,Power BI,Banca
+225,Paula Moreno,Consultor Funcional,Manager,AWS,Retail
+226,Marina Pérez,Consultor Funcional,Senior,Java,Seguros
+227,Marta Moreno,Consultor BI,Senior,Power BI,Seguros
+228,Marta Gutiérrez,Consultor BI,Senior,Python,Retail
+229,Javier Fernández,Consultor Funcional,Senior,Azure,Seguros
+230,Elena López,Consultor Funcional,Junior,Python,Telco
+231,Raúl Pérez,Consultor BI,Senior,AWS,Seguros
+232,Raúl Gómez,Arquitecto Cloud,Junior,Java,Retail
+233,Sofía Moreno,Arquitecto Cloud,Junior,Azure,Retail
+234,Lucía Romero,Consultor BI,Senior,Kubernetes,Retail
+235,Nuria Gutiérrez,Ingeniero de Datos,Junior,AWS,Retail
+236,Álvaro Romero,Consultor BI,Junior,Spark,Retail
+237,Javier Ruiz,Arquitecto Cloud,Manager,AWS,Industria
+238,Pablo Navarro,Consultor Funcional,Junior,Java,Banca
+239,Nuria Romero,Ingeniero de Datos,Senior,Spark,Retail
+240,Ana Álvarez,Data Scientist,Manager,Power BI,Seguros
+241,Luis Moreno,Arquitecto Cloud,Manager,AWS,Telco
+242,Sofía García,Data Scientist,Junior,SQL,Seguros
+243,Hugo Gutiérrez,Data Scientist,Senior,Azure,Retail
+244,Luis Díaz,Arquitecto Cloud,Manager,Kubernetes,Banca
+245,Álvaro García,Consultor BI,Manager,Azure,Telco
+246,Diego Gutiérrez,Data Scientist,Manager,Power BI,Seguros
+247,Adrián Gómez,Data Scientist,Manager,Power BI,Banca
+248,Hugo García,Arquitecto Cloud,Senior,Python,Telco
+249,Miguel Ruiz,Data Scientist,Senior,Spark,Retail
+250,Carlos Álvarez,Ingeniero de Datos,Junior,Power BI,Utilities
+251,Javier Navarro,Arquitecto Cloud,Manager,AWS,Seguros
+252,Sofía Martínez,Consultor Funcional,Junior,Python,Seguros
+253,Laura Moreno,Consultor BI,Senior,Kubernetes,Retail
+254,Lucía Moreno,Consultor Funcional,Junior,Power BI,Retail
+255,Miguel Gutiérrez,Arquitecto Cloud,Manager,Kubernetes,Industria
+256,Javier Torres,Arquitecto Cloud,Senior,SQL,Banca
+257,Marta Gutiérrez,Consultor BI,Junior,SQL,Retail
+258,Marta Álvarez,Consultor Funcional,Senior,Kubernetes,Utilities
+259,Javier Navarro,Consultor Funcional,Senior,Python,Telco
+260,Raúl Gutiérrez,Consultor Funcional,Manager,Python,Banca
+261,Miguel Gómez,Data Scientist,Junior,Kubernetes,Banca
+262,Marta Díaz,Consultor Funcional,Senior,Java,Utilities
+263,Raúl Pérez,Arquitecto Cloud,Senior,Power BI,Industria
+264,Marina Pérez,Consultor BI,Senior,Java,Retail
+265,Pablo Sánchez,Data Scientist,Manager,AWS,Industria
+266,Paula Sánchez,Consultor Funcional,Senior,Kubernetes,Seguros
+267,Diego Torres,Ingeniero de Datos,Junior,AWS,Banca
+268,Javier Navarro,Data Scientist,Manager,Power BI,Telco
+269,Marta Moreno,Consultor Funcional,Junior,AWS,Retail
+270,Pablo Sánchez,Ingeniero de Datos,Junior,Azure,Industria
+271,Miguel Romero,Arquitecto Cloud,Manager,AWS,Utilities
+272,Marta Moreno,Arquitecto Cloud,Manager,Kubernetes,Utilities
+273,Adrián López,Ingeniero de Datos,Senior,Spark,Industria
+274,Nuria Romero,Ingeniero de Datos,Manager,AWS,Seguros
+275,Nuria Martínez,Data Scientist,Manager,AWS,Retail
+276,Javier Álvarez,Ingeniero de Datos,Senior,SQL,Banca
+277,Lucía Ruiz,Ingeniero de Datos,Manager,SQL,Utilities
+278,Marta Gómez,Consultor BI,Manager,AWS,Seguros
+279,Raúl Álvarez,Consultor BI,Junior,Python,Banca
+280,Marina Ruiz,Ingeniero de Datos,Manager,Java,Utilities
+281,Álvaro Moreno,Consultor Funcional,Senior,Azure,Telco
+282,Diego Navarro,Data Scientist,Manager,Python,Seguros
+283,Adrián Torres,Arquitecto Cloud,Junior,Power BI,Utilities
+284,Laura Álvarez,Consultor Funcional,Senior,AWS,Retail
+285,Hugo Sánchez,Consultor Funcional,Junior,Kubernetes,Banca
+286,Sofía Díaz,Ingeniero de Datos,Junior,Python,Retail
+287,Raúl Gutiérrez,Ingeniero de Datos,Junior,Power BI,Utilities
+288,Lucía Gómez,Arquitecto Cloud,Manager,Kubernetes,Industria
+289,Álvaro García,Data Scientist,Senior,Kubernetes,Seguros
+290,Marina Romero,Data Scientist,Junior,SQL,Industria
+291,Álvaro Moreno,Consultor BI,Junior,Spark,Industria
+292,Sara Romero,Arquitecto Cloud,Senior,Python,Industria
+293,Marina Fernández,Consultor Funcional,Manager,SQL,Banca
+294,Nuria Navarro,Consultor BI,Senior,Spark,Seguros
+295,Paula Romero,Consultor Funcional,Manager,Power BI,Seguros
+296,Raúl Alonso,Consultor BI,Junior,Python,Banca
+297,Laura Torres,Consultor BI,Senior,AWS,Utilities
+298,Elena Álvarez,Consultor BI,Senior,AWS,Industria
+299,Diego Álvarez,Consultor BI,Manager,Kubernetes,Telco
+300,Diego Torres,Data Scientist,Senior,Power BI,Telco
+301,Adrián Moreno,Data Scientist,Manager,Kubernetes,Retail
+302,Marina Díaz,Data Scientist,Manager,Kubernetes,Seguros
+303,Raúl Alonso,Ingeniero de Datos,Manager,Azure,Banca
+304,Carlos Fernández,Data Scientist,Senior,Power BI,Industria
+305,Adrián Fernández,Arquitecto Cloud,Manager,Kubernetes,Telco
+306,Elena Fernández,Consultor BI,Senior,Kubernetes,Utilities
+307,Laura Gómez,Arquitecto Cloud,Manager,Power BI,Utilities
+308,Sara Torres,Ingeniero de Datos,Junior,SQL,Utilities
+309,Pablo Moreno,Consultor Funcional,Manager,Azure,Telco
+310,Laura Torres,Consultor Funcional,Manager,SQL,Retail
+311,Marina Alonso,Arquitecto Cloud,Senior,AWS,Retail
+312,Diego López,Consultor Funcional,Senior,SQL,Telco
+313,Lucía Fernández,Consultor BI,Senior,SQL,Seguros
+314,Raúl Díaz,Ingeniero de Datos,Junior,Azure,Telco
+315,Luis Sánchez,Arquitecto Cloud,Senior,Kubernetes,Banca
+316,Ana Gómez,Arquitecto Cloud,Manager,Kubernetes,Industria
+317,Diego Álvarez,Consultor Funcional,Manager,Python,Banca
+318,Pablo Martínez,Ingeniero de Datos,Senior,AWS,Banca
+319,Álvaro Gómez,Consultor Funcional,Junior,Python,Retail
+320,Raúl Sánchez,Consultor Funcional,Senior,Kubernetes,Telco
+321,Nuria Torres,Ingeniero de Datos,Manager,Kubernetes,Retail
+322,Carlos Álvarez,Ingeniero de Datos,Manager,Kubernetes,Telco
+323,Javier García,Consultor Funcional,Senior,Azure,Seguros
+324,Paula Gutiérrez,Consultor BI,Senior,Spark,Industria
+325,Javier Pérez,Arquitecto Cloud,Senior,Azure,Banca
+326,Paula Díaz,Arquitecto Cloud,Senior,Power BI,Retail
+327,Marina García,Consultor Funcional,Manager,Power BI,Telco
+328,Luis Sánchez,Arquitecto Cloud,Senior,AWS,Industria
+329,Diego Sánchez,Consultor Funcional,Senior,Azure,Seguros
+330,Álvaro Pérez,Arquitecto Cloud,Manager,Power BI,Industria
+331,Álvaro Fernández,Ingeniero de Datos,Manager,Spark,Utilities
+332,Nuria Romero,Data Scientist,Manager,Spark,Banca
+333,Nuria Fernández,Consultor BI,Manager,AWS,Seguros
+334,Nuria Navarro,Data Scientist,Manager,Azure,Telco
+335,Álvaro López,Consultor BI,Senior,Python,Industria
+336,Nuria Gutiérrez,Arquitecto Cloud,Manager,Python,Utilities
+337,Diego García,Arquitecto Cloud,Senior,Python,Telco
+338,Marina López,Data Scientist,Senior,Power BI,Telco
+339,Hugo Martínez,Data Scientist,Senior,Python,Retail
+340,Javier Pérez,Arquitecto Cloud,Senior,Java,Industria
+341,Paula López,Consultor BI,Junior,Power BI,Banca
+342,Hugo Alonso,Consultor BI,Junior,Azure,Banca
+343,Diego Navarro,Consultor BI,Senior,Java,Seguros
+344,Sofía Romero,Ingeniero de Datos,Senior,Azure,Telco
+345,Luis Gutiérrez,Consultor BI,Junior,Azure,Seguros
+346,Carlos Martínez,Arquitecto Cloud,Manager,Python,Seguros
+347,Paula Navarro,Ingeniero de Datos,Manager,Azure,Banca
+348,Nuria Moreno,Ingeniero de Datos,Manager,Power BI,Utilities
+349,Laura Díaz,Consultor Funcional,Junior,Azure,Industria
+350,Sara Martínez,Consultor BI,Manager,AWS,Telco
+351,Hugo Torres,Data Scientist,Senior,Java,Utilities
+352,Adrián Gutiérrez,Ingeniero de Datos,Senior,Java,Seguros
+353,Álvaro Díaz,Ingeniero de Datos,Senior,AWS,Industria
+354,Hugo Gutiérrez,Arquitecto Cloud,Manager,AWS,Industria
+355,Sara Fernández,Consultor Funcional,Manager,Spark,Industria
+356,Marta Fernández,Data Scientist,Senior,Java,Telco
+357,Raúl Martínez,Data Scientist,Junior,Azure,Industria
+358,Laura Moreno,Data Scientist,Junior,Azure,Telco
+359,Álvaro Díaz,Consultor BI,Manager,Azure,Industria
+360,Hugo Álvarez,Consultor Funcional,Senior,Kubernetes,Utilities
+361,Diego Ruiz,Consultor Funcional,Manager,Kubernetes,Industria
+362,Álvaro Álvarez,Ingeniero de Datos,Senior,Power BI,Industria
+363,Marina Díaz,Ingeniero de Datos,Junior,SQL,Utilities
+364,Marina Gutiérrez,Consultor Funcional,Junior,Azure,Retail
+365,Paula Díaz,Arquitecto Cloud,Manager,Power BI,Retail
+366,Álvaro Navarro,Ingeniero de Datos,Manager,Power BI,Seguros
+367,Hugo Torres,Ingeniero de Datos,Manager,Python,Utilities
+368,Marta Martínez,Data Scientist,Senior,AWS,Telco
+369,Marta Pérez,Data Scientist,Junior,Kubernetes,Retail
+370,Raúl Torres,Arquitecto Cloud,Junior,Python,Utilities
+371,Adrián García,Data Scientist,Manager,SQL,Utilities
+372,Ana Gutiérrez,Ingeniero de Datos,Junior,Spark,Utilities
+373,Pablo Fernández,Consultor BI,Manager,SQL,Retail
+374,Paula López,Consultor Funcional,Senior,Kubernetes,Utilities
+375,Pablo Moreno,Data Scientist,Manager,Python,Banca
+376,Paula Alonso,Consultor BI,Senior,Python,Telco
+377,Javier López,Arquitecto Cloud,Senior,Power BI,Utilities
+378,Nuria Martínez,Ingeniero de Datos,Junior,Kubernetes,Retail
+379,Marta Ruiz,Consultor BI,Manager,Python,Seguros
+380,Ana Fernández,Consultor BI,Junior,Java,Banca
+381,Javier Díaz,Consultor BI,Senior,Power BI,Industria
+382,Marta Romero,Data Scientist,Junior,Java,Seguros
+383,Laura Alonso,Consultor Funcional,Junior,SQL,Industria
+384,Pablo Romero,Consultor BI,Senior,Java,Seguros
+385,Paula López,Consultor BI,Senior,Azure,Telco
+386,Marta Ruiz,Ingeniero de Datos,Senior,AWS,Telco
+387,Laura Romero,Data Scientist,Junior,Python,Retail
+388,Miguel Ruiz,Data Scientist,Junior,Spark,Seguros
+389,Sofía Gutiérrez,Data Scientist,Junior,Spark,Retail
+390,Marta Álvarez,Arquitecto Cloud,Junior,SQL,Industria
+391,Marta Díaz,Consultor BI,Manager,AWS,Telco
+392,Javier Pérez,Consultor Funcional,Senior,SQL,Industria
+393,Marta Gómez,Arquitecto Cloud,Senior,Java,Retail
+394,Marta Romero,Consultor Funcional,Junior,Kubernetes,Utilities
+395,Lucía Navarro,Data Scientist,Junior,SQL,Banca
+396,Laura Alonso,Consultor Funcional,Senior,Power BI,Industria
+397,Elena Moreno,Consultor Funcional,Manager,Azure,Industria
+398,Javier Alonso,Consultor Funcional,Senior,Kubernetes,Utilities
+399,Laura Alonso,Consultor Funcional,Senior,Power BI,Banca
+400,Lucía Gómez,Consultor BI,Junior,Kubernetes,Telco
+401,Sofía Moreno,Data Scientist,Senior,Kubernetes,Seguros
+402,Pablo Ruiz,Ingeniero de Datos,Manager,Java,Industria
+403,Sofía Torres,Consultor BI,Senior,Java,Utilities
+404,Miguel López,Data Scientist,Junior,Power BI,Seguros
+405,Luis Alonso,Consultor Funcional,Senior,Spark,Banca
+406,Sara Díaz,Consultor BI,Manager,Azure,Industria
+407,Paula Navarro,Consultor BI,Manager,AWS,Retail
+408,Álvaro Sánchez,Consultor Funcional,Senior,Spark,Banca
+409,Miguel Moreno,Consultor Funcional,Senior,Azure,Utilities
+410,Miguel Torres,Data Scientist,Senior,Kubernetes,Retail
+411,Diego Martínez,Data Scientist,Junior,Power BI,Telco
+412,Javier Díaz,Consultor BI,Junior,AWS,Retail
+413,Adrián Navarro,Ingeniero de Datos,Senior,AWS,Seguros
+414,Paula García,Consultor BI,Junior,Kubernetes,Utilities
+415,Paula García,Ingeniero de Datos,Junior,SQL,Telco
+416,Marina Sánchez,Consultor BI,Junior,Power BI,Retail
+417,Sofía Sánchez,Consultor Funcional,Manager,Kubernetes,Utilities
+418,Raúl Alonso,Consultor BI,Senior,Spark,Retail
+419,Sofía Gómez,Consultor Funcional,Manager,Spark,Telco
+420,Laura Sánchez,Ingeniero de Datos,Senior,Spark,Seguros
+421,Elena Alonso,Arquitecto Cloud,Manager,AWS,Utilities
+422,Adrián Gómez,Arquitecto Cloud,Manager,AWS,Utilities
+423,Álvaro Moreno,Ingeniero de Datos,Junior,Power BI,Industria
+424,Luis Romero,Data Scientist,Senior,AWS,Seguros
+425,Hugo Torres,Arquitecto Cloud,Manager,Kubernetes,Industria
+426,Álvaro Gómez,Data Scientist,Manager,Python,Seguros
+427,Luis Ruiz,Ingeniero de Datos,Manager,SQL,Seguros
+428,Marina Torres,Consultor BI,Manager,Spark,Utilities
+429,Sara Romero,Consultor BI,Junior,Kubernetes,Utilities
+430,Adrián Sánchez,Ingeniero de Datos,Senior,Python,Industria
+431,Miguel López,Arquitecto Cloud,Junior,Azure,Seguros
+432,Miguel Gutiérrez,Ingeniero de Datos,Manager,AWS,Seguros
+433,Luis Romero,Consultor BI,Senior,AWS,Retail
+434,Diego Ruiz,Consultor BI,Manager,Spark,Seguros
+435,Luis Ruiz,Ingeniero de Datos,Manager,AWS,Seguros
+436,Laura Díaz,Arquitecto Cloud,Senior,AWS,Utilities
+437,Adrián Alonso,Arquitecto Cloud,Junior,Spark,Industria
+438,Sara Romero,Arquitecto Cloud,Senior,Power BI,Utilities
+439,Marta Navarro,Consultor Funcional,Junior,Java,Seguros
+440,Lucía Torres,Consultor Funcional,Senior,SQL,Retail
+441,Marina Pérez,Consultor BI,Senior,Power BI,Telco
+442,Luis Sánchez,Arquitecto Cloud,Junior,Spark,Seguros
+443,Sofía García,Arquitecto Cloud,Junior,AWS,Telco
+444,Javier Ruiz,Data Scientist,Manager,Power BI,Retail
+445,Miguel Gómez,Data Scientist,Senior,SQL,Telco
+446,Adrián López,Data Scientist,Junior,Azure,Industria
+447,Elena Díaz,Consultor BI,Manager,Kubernetes,Banca
+448,Laura Sánchez,Arquitecto Cloud,Manager,AWS,Industria
+449,Pablo Alonso,Data Scientist,Manager,Spark,Banca
+450,Miguel Moreno,Ingeniero de Datos,Senior,AWS,Telco
+451,Marta García,Consultor BI,Manager,AWS,Industria
+452,Lucía Pérez,Arquitecto Cloud,Manager,Kubernetes,Seguros
+453,Carlos Pérez,Data Scientist,Manager,Java,Retail
+454,Laura Pérez,Ingeniero de Datos,Senior,Spark,Seguros
+455,Raúl Moreno,Data Scientist,Manager,SQL,Seguros
+456,Raúl Fernández,Arquitecto Cloud,Senior,Python,Seguros
+457,Paula Sánchez,Ingeniero de Datos,Senior,Spark,Utilities
+458,Miguel Álvarez,Ingeniero de Datos,Senior,Java,Retail
+459,Javier Torres,Data Scientist,Junior,Spark,Banca
+460,Lucía Martínez,Data Scientist,Senior,SQL,Telco
+461,Adrián Gutiérrez,Arquitecto Cloud,Junior,AWS,Retail
+462,Diego López,Consultor BI,Junior,AWS,Utilities
+463,Paula López,Consultor Funcional,Manager,Java,Telco
+464,Luis Díaz,Data Scientist,Senior,Spark,Industria
+465,Raúl Martínez,Consultor Funcional,Manager,AWS,Banca
+466,Elena García,Ingeniero de Datos,Senior,Power BI,Utilities
+467,Sara Gómez,Consultor Funcional,Junior,SQL,Telco
+468,Ana Álvarez,Arquitecto Cloud,Senior,Spark,Retail
+469,Marta Torres,Arquitecto Cloud,Manager,Power BI,Banca
+470,Marina Gómez,Consultor Funcional,Junior,SQL,Banca
+471,Carlos Díaz,Consultor BI,Junior,Python,Banca
+472,Luis Torres,Consultor Funcional,Senior,AWS,Seguros
+473,Hugo Gutiérrez,Ingeniero de Datos,Senior,Azure,Industria
+474,Sara López,Consultor BI,Senior,Spark,Utilities
+475,Javier Díaz,Consultor BI,Junior,Java,Banca
+476,Diego Moreno,Consultor Funcional,Junior,Kubernetes,Banca
+477,Lucía Moreno,Consultor BI,Senior,Azure,Industria
+478,Marina Torres,Ingeniero de Datos,Manager,Azure,Seguros
+479,Adrián García,Ingeniero de Datos,Manager,Power BI,Telco
+480,Laura García,Arquitecto Cloud,Manager,SQL,Banca
+481,Nuria Díaz,Arquitecto Cloud,Senior,Python,Seguros
+482,Marta Martínez,Ingeniero de Datos,Manager,Java,Telco
+483,Sofía López,Consultor BI,Junior,AWS,Telco
+484,Marta Martínez,Arquitecto Cloud,Manager,AWS,Seguros
+485,Sara Álvarez,Arquitecto Cloud,Manager,Power BI,Retail
+486,Sara Díaz,Data Scientist,Junior,AWS,Utilities
+487,Elena Sánchez,Ingeniero de Datos,Senior,Kubernetes,Retail
+488,Carlos Romero,Ingeniero de Datos,Senior,SQL,Industria
+489,Carlos López,Ingeniero de Datos,Manager,SQL,Telco
+490,Luis Fernández,Consultor Funcional,Junior,Spark,Telco
+491,Miguel Alonso,Consultor BI,Junior,SQL,Retail
+492,Ana Alonso,Arquitecto Cloud,Manager,Azure,Banca
+493,Carlos Pérez,Data Scientist,Junior,Python,Seguros
+494,Lucía Alonso,Consultor Funcional,Manager,Spark,Utilities
+495,Sara López,Data Scientist,Junior,Azure,Telco
+496,Elena López,Consultor Funcional,Junior,Python,Industria
+497,Javier Gutiérrez,Arquitecto Cloud,Senior,Python,Industria
+498,Javier Romero,Ingeniero de Datos,Junior,SQL,Retail
+499,Elena Martínez,Consultor BI,Manager,Azure,Telco
+500,Álvaro Gutiérrez,Consultor BI,Senior,Python,Banca

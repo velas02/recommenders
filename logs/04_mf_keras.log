@@ -1,0 +1,10 @@
+2026-08-23 20:14:50 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-23 20:14:50 [INFO] Baseline (media global) -> RMSE: 1.127 | MAE: 0.967
+2026-08-23 20:16:24 [INFO] MF Keras (deep) -> RMSE: 0.585 | MAE: 0.431 | Precision@5: 0.301 | Hit Rate@5: 0.886
+2026-08-23 20:16:24 [INFO] Ejemplo (MF Keras) -> recomendaciones para consultor 1: [38, 109, 34, 128, 12]
+2026-08-23 20:49:27 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-23 20:49:27 [INFO] Baseline (media global) -> RMSE: 1.127 | MAE: 0.967
+2026-08-23 20:50:39 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-23 20:50:39 [INFO] Baseline (media global) -> RMSE: 1.127 | MAE: 0.967
+2026-08-23 20:51:59 [INFO] MF Keras (deep) -> RMSE: 0.585 | MAE: 0.431 | Precision@5: 0.301 | Hit Rate@5: 0.886
+2026-08-23 20:51:59 [INFO] Ejemplo (MF Keras) -> recomendaciones para consultor 1: [38, 109, 34, 128, 12]

@@ -1,0 +1,151 @@
+recurso_id,familia,tipo,tecnologia,sector
+1,caso_exito,Informe de proyecto,Java,Seguros
+2,tecnico,Documentación,Python,Industria
+3,caso_exito,Caso de éxito,Power BI,Utilities
+4,caso_exito,Caso de éxito,SQL,Seguros
+5,caso_exito,Informe de proyecto,Python,Retail
+6,caso_exito,Caso de éxito,Azure,Seguros
+7,tecnico,Documentación,Azure,Retail
+8,tecnico,Plantilla,Java,Retail
+9,tecnico,Plantilla,Power BI,Telco
+10,tecnico,Documentación,Power BI,Utilities
+11,tecnico,Documentación,Azure,Industria
+12,caso_exito,Informe de proyecto,Kubernetes,Banca
+13,tecnico,Plantilla,Azure,Banca
+14,caso_exito,Informe de proyecto,Power BI,Utilities
+15,tecnico,Snippet,AWS,Retail
+16,tecnico,Plantilla,AWS,Banca
+17,caso_exito,Informe de proyecto,Power BI,Telco
+18,tecnico,Snippet,SQL,Retail
+19,tecnico,Documentación,Java,Telco
+20,caso_exito,Informe de proyecto,Power BI,Seguros
+21,tecnico,Snippet,SQL,Telco
+22,tecnico,Plantilla,Python,Telco
+23,caso_exito,Informe de proyecto,AWS,Utilities
+24,tecnico,Documentación,Spark,Industria
+25,caso_exito,Informe de proyecto,Azure,Retail
+26,tecnico,Documentación,Spark,Telco
+27,caso_exito,Informe de proyecto,SQL,Seguros
+28,tecnico,Snippet,SQL,Banca
+29,tecnico,Snippet,Kubernetes,Telco
+30,tecnico,Snippet,Kubernetes,Industria
+31,caso_exito,Informe de proyecto,Kubernetes,Utilities
+32,tecnico,Snippet,Spark,Banca
+33,tecnico,Snippet,SQL,Banca
+34,caso_exito,Informe de proyecto,Java,Seguros
+35,tecnico,Snippet,Kubernetes,Telco
+36,caso_exito,Informe de proyecto,Java,Seguros
+37,tecnico,Snippet,Azure,Seguros
+38,caso_exito,Caso de éxito,SQL,Seguros
+39,tecnico,Snippet,Kubernetes,Seguros
+40,caso_exito,Informe de proyecto,Java,Banca
+41,caso_exito,Informe de proyecto,Spark,Banca
+42,tecnico,Documentación,SQL,Banca
+43,tecnico,Snippet,Java,Industria
+44,caso_exito,Informe de proyecto,Java,Seguros
+45,caso_exito,Caso de éxito,AWS,Industria
+46,caso_exito,Caso de éxito,Kubernetes,Retail
+47,caso_exito,Informe de proyecto,AWS,Telco
+48,tecnico,Documentación,Power BI,Utilities
+49,tecnico,Documentación,Python,Industria
+50,caso_exito,Caso de éxito,Azure,Industria
+51,tecnico,Snippet,Python,Utilities
+52,tecnico,Plantilla,Kubernetes,Seguros
+53,tecnico,Plantilla,AWS,Banca
+54,tecnico,Documentación,Java,Seguros
+55,caso_exito,Caso de éxito,Spark,Banca
+56,caso_exito,Caso de éxito,SQL,Utilities
+57,tecnico,Documentación,Java,Banca
+58,tecnico,Plantilla,Spark,Banca
+59,tecnico,Snippet,Power BI,Industria
+60,caso_exito,Caso de éxito,Kubernetes,Banca
+61,caso_exito,Caso de éxito,AWS,Utilities
+62,caso_exito,Informe de proyecto,Java,Retail
+63,tecnico,Documentación,Kubernetes,Retail
+64,tecnico,Snippet,SQL,Retail
+65,caso_exito,Informe de proyecto,Azure,Seguros
+66,caso_exito,Caso de éxito,SQL,Telco
+67,tecnico,Plantilla,Kubernetes,Seguros
+68,caso_exito,Caso de éxito,Python,Utilities
+69,tecnico,Snippet,Java,Seguros
+70,tecnico,Plantilla,Azure,Seguros
+71,tecnico,Plantilla,Kubernetes,Banca
+72,tecnico,Snippet,Power BI,Industria
+73,caso_exito,Informe de proyecto,Python,Seguros
+74,caso_exito,Caso de éxito,AWS,Industria
+75,caso_exito,Caso de éxito,AWS,Retail
+76,caso_exito,Informe de proyecto,Java,Banca
+77,tecnico,Plantilla,Azure,Telco
+78,caso_exito,Caso de éxito,Python,Telco
+79,caso_exito,Informe de proyecto,AWS,Utilities
+80,tecnico,Snippet,SQL,Telco
+81,caso_exito,Caso de éxito,Power BI,Industria
+82,tecnico,Snippet,SQL,Telco
+83,caso_exito,Informe de proyecto,Python,Utilities
+84,caso_exito,Caso de éxito,Spark,Industria
+85,caso_exito,Caso de éxito,Power BI,Retail
+86,caso_exito,Informe de proyecto,AWS,Utilities
+87,tecnico,Documentación,Java,Telco
+88,tecnico,Documentación,Python,Telco
+89,caso_exito,Caso de éxito,Java,Industria
+90,tecnico,Documentación,Azure,Retail
+91,caso_exito,Caso de éxito,SQL,Seguros
+92,tecnico,Snippet,Spark,Industria
+93,caso_exito,Informe de proyecto,Power BI,Telco
+94,tecnico,Snippet,Azure,Telco
+95,caso_exito,Caso de éxito,Power BI,Retail
+96,caso_exito,Caso de éxito,Spark,Industria
+97,tecnico,Snippet,Azure,Utilities
+98,caso_exito,Caso de éxito,Java,Banca
+99,tecnico,Plantilla,Power BI,Industria
+100,caso_exito,Informe de proyecto,Power BI,Telco
+101,tecnico,Snippet,Power BI,Telco
+102,caso_exito,Informe de proyecto,Python,Industria
+103,tecnico,Plantilla,AWS,Industria
+104,tecnico,Documentación,Java,Telco
+105,caso_exito,Caso de éxito,Kubernetes,Industria
+106,tecnico,Documentación,Azure,Telco
+107,tecnico,Snippet,Azure,Banca
+108,tecnico,Plantilla,Power BI,Retail
+109,tecnico,Snippet,SQL,Seguros
+110,tecnico,Snippet,SQL,Industria
+111,caso_exito,Caso de éxito,AWS,Retail
+112,caso_exito,Informe de proyecto,AWS,Industria
+113,tecnico,Plantilla,AWS,Seguros
+114,tecnico,Plantilla,Power BI,Telco
+115,caso_exito,Caso de éxito,Python,Utilities
+116,tecnico,Documentación,Python,Banca
+117,caso_exito,Caso de éxito,Java,Banca
+118,caso_exito,Caso de éxito,AWS,Seguros
+119,caso_exito,Caso de éxito,Spark,Telco
+120,caso_exito,Informe de proyecto,Java,Banca
+121,tecnico,Snippet,Spark,Banca
+122,tecnico,Documentación,Azure,Retail
+123,tecnico,Snippet,Java,Retail
+124,tecnico,Documentación,Kubernetes,Seguros
+125,caso_exito,Informe de proyecto,Python,Banca
+126,tecnico,Documentación,Kubernetes,Seguros
+127,tecnico,Documentación,Spark,Retail
+128,caso_exito,Caso de éxito,SQL,Industria
+129,tecnico,Plantilla,Python,Retail
+130,caso_exito,Caso de éxito,Spark,Banca
+131,tecnico,Plantilla,AWS,Retail
+132,caso_exito,Caso de éxito,Spark,Retail
+133,tecnico,Plantilla,Java,Industria
+134,caso_exito,Caso de éxito,Kubernetes,Industria
+135,tecnico,Plantilla,Python,Seguros
+136,caso_exito,Caso de éxito,Kubernetes,Seguros
+137,caso_exito,Caso de éxito,Python,Telco
+138,caso_exito,Caso de éxito,Spark,Industria
+139,tecnico,Plantilla,SQL,Telco
+140,tecnico,Documentación,Azure,Telco
+141,tecnico,Snippet,Azure,Industria
+142,caso_exito,Informe de proyecto,Python,Banca
+143,caso_exito,Caso de éxito,AWS,Banca
+144,caso_exito,Informe de proyecto,Power BI,Retail
+145,tecnico,Documentación,Java,Industria
+146,tecnico,Snippet,Kubernetes,Utilities
+147,tecnico,Snippet,Kubernetes,Retail
+148,caso_exito,Informe de proyecto,Spark,Industria
+149,tecnico,Documentación,Python,Banca
+150,caso_exito,Informe de proyecto,Kubernetes,Retail

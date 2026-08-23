@@ -1,0 +1,25 @@
+[project]
+name = "okr-recommender-demo"
+version = "0.1.0"
+description = "Progresión de recomendadores (TF-IDF, CF, MF, MF con Keras, AutoRec) sobre el Knowledge Hub interno de Tinámica"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scikit-learn>=1.6",
+    "scipy>=1.13",
+    "tensorflow>=2.20",
+]
+
+# `utils` se instala como paquete editable del propio proyecto: así los scripts
+# de scripts/ pueden hacer `from utils... import ...` sin importar desde dónde
+# se ejecuten.
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["utils"]

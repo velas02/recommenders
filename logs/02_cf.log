@@ -1,0 +1,10 @@
+2026-08-23 05:11:11 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-23 05:11:11 [INFO] Baseline (media global) -> RMSE: 1.127 | MAE: 0.967
+2026-08-23 05:11:33 [INFO] CF user-based -> RMSE: 0.827 | MAE: 0.674 | Precision@5: 0.217 | Hit Rate@5: 0.736
+2026-08-23 05:11:58 [INFO] CF item-based -> RMSE: 0.795 | MAE: 0.651 | Precision@5: 0.220 | Hit Rate@5: 0.736
+2026-08-23 05:11:58 [INFO] Ejemplo (user-based) -> recomendaciones para consultor 1: [38, 34, 109, 144, 79]
+2026-08-23 20:48:30 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-23 20:48:30 [INFO] Baseline (media global) -> RMSE: 1.127 | MAE: 0.967
+2026-08-23 20:48:53 [INFO] CF user-based -> RMSE: 0.827 | MAE: 0.674 | Precision@5: 0.217 | Hit Rate@5: 0.736
+2026-08-23 20:49:20 [INFO] CF item-based -> RMSE: 0.795 | MAE: 0.651 | Precision@5: 0.220 | Hit Rate@5: 0.736
+2026-08-23 20:49:20 [INFO] Ejemplo (user-based) -> recomendaciones para consultor 1: [38, 34, 109, 144, 79]
