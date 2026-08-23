@@ -1,4 +1,6 @@
 2026-08-23 05:11:10 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
 2026-08-23 05:11:10 [INFO] TF-IDF content-based -> Precision@5: 0.089 | Hit Rate@5: 0.382
 2026-08-23 05:11:10 [INFO] Ejemplo cold-start simulado (se ignora su historial a propósito) -> recomendaciones para consultor 1: [37, 70, 6, 65, 141]
-2026-08-23 20:47:17 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-24 01:11:01 [INFO] Consultores: 500 | Recursos: 150 | Ratings train/test: 23896/5974
+2026-08-24 01:11:02 [INFO] TF-IDF content-based -> Precision@5: 0.089 | Hit Rate@5: 0.382
+2026-08-24 01:11:02 [INFO] Ejemplo cold-start simulado (se ignora su historial a propósito) -> recomendaciones para consultor 1: [37, 70, 6, 65, 141]
