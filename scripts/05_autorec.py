@@ -39,8 +39,8 @@ keras.utils.set_random_seed(42)  # reproducibilidad: mismos pesos iniciales y mi
 
 log = get_logger(nombre="05_autorec")
 
-UNIDADES_OCULTAS = 64  # tamaño del cuello de botella (factores latentes implícitos)
-DROPOUT = 0.3  # regularización sobre la fila de entrada
+UNIDADES_OCULTAS = 32  # tamaño del cuello de botella (factores latentes implícitos)
+DROPOUT = 0.15  # regularización sobre la fila de entrada
 REG = 1e-4  # regularización L2 de las capas densas
 LEARNING_RATE = 0.001
 BATCH_SIZE = 64
